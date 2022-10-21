@@ -69,4 +69,5 @@ N/A
 
 ## Author
 
-Yasmin Bustami - https://github.com/yazbustami/Challenge17
+Yasmin Bustami - repo : https://github.com/yazbustami/Challenge17
+gist: https://github.com/yazbustami/Challenge17/blob/main/Develop/gist-template.md
